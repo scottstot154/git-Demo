@@ -2,10 +2,7 @@
 
 This is the first file in this repo
 
-##Ipsum Below
+##Website Contents
 
-JANKJDNJNONDAODSNNDNSNOJDNONONJNDJN sandjnjsdnojn djansjndondsanondjasnjodn dadnodjoaos
+1.index.html
 
-
-
-adnjnsojna he did it and he dit adnsanddlacl cl a tun tun tua
